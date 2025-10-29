@@ -1,6 +1,7 @@
 HELP.md
 target/
-.config.properties
+src/main/resources/config.properties
+*.properties
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
