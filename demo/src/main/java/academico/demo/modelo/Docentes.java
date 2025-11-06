@@ -1,5 +1,7 @@
 package academico.demo.modelo;
 
+import org.springframework.stereotype.Indexed;
+
 import jakarta.annotation.Generated;
 
 public class Docentes {

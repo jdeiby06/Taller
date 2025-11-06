@@ -4,6 +4,7 @@ import org.springframework.aot.generate.Generated;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.stereotype.Indexed;
 
+
 @EntityScan
 public class Estudiantes {
     private int  estudiante_id ;
@@ -16,6 +17,7 @@ public class Estudiantes {
     private String tipo_documento;
     private String genero;
 
+    
     
     public int getEstudiante_id() {
         return estudiante_id;
