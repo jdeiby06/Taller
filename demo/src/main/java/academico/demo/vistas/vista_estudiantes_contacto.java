@@ -1,6 +1,6 @@
 package academico.demo.vistas;
 
-package com.miaplicacion.vistas;
+
 
 public class vista_estudiantes_contacto {
     private int estudianteId;
